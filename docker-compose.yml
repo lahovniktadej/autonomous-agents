@@ -1,0 +1,10 @@
+name: autonomous-agents
+
+services:
+  autonomous-agents:
+    container_name: autonomous-agents
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
