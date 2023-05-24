@@ -2,9 +2,9 @@
 ## Description
 An application showcasing autonomous agents and steering behaviour in a simulated environment. The application is based on the [p5.js](https://p5js.org) library and uses [Browsersync](https://browsersync.io) for live reloading and static site serving.
 
-<center>
+<p align='center'>
 <img src='./visualisation/application_demo.gif' alt='Application demo'>
-</center>
+</p>
 
 ## Prerequisites
 * [Node.js](https://nodejs.org/en)
